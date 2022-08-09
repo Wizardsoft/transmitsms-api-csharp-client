@@ -1,6 +1,3 @@
-using System;
-using System.Collections.Generic;
-
 namespace TransmitSMS.Standard.Http.Response
 {
     public class HttpStringResponse : HttpResponse

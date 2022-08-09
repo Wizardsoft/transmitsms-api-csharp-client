@@ -5,14 +5,8 @@
  */
 using System;
 using System.Collections.Generic;
-using System.Dynamic;
-using System.Globalization;
-using System.IO;
-using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Newtonsoft.Json.Converters;
-using TransmitSMS.Standard;
 using TransmitSMS.Standard.Utilities;
 using TransmitSMS.Standard.Http.Request;
 using TransmitSMS.Standard.Http.Response;
